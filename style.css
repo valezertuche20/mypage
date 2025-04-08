@@ -1,0 +1,71 @@
+* {
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+ }
+ 
+ body {
+     background-color: #f7c0ec91;
+     min-width: 375px;
+     width: 100%;
+     min-height: 100vh;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+
+ .card-group {
+   align-items: center;
+   justify-content: center;
+ }
+ 
+ header {
+    font-family: cursive;
+    font-size: 8rem;
+    color: chocolate;
+ }
+ 
+ h1 {
+    font-size: 4rem;
+    font-family: emoji;
+    color: #6b9386;
+    text-align: center;
+ }
+ 
+ nav {
+    width: 100%;
+    padding: 2px;
+    background-color: #7fbfff4f;
+ }
+ 
+ a {
+ 
+ }
+ 
+ main {
+    width: 100%;
+    font-size: larger;
+    font-family: cursive;
+    color: #4354a9e0;
+ }
+ 
+ section {
+ width: 100%;
+ padding: 5%;
+ background-color: #92d6c7e0;
+ margin: 4%;
+ }
+ 
+ h2 {
+ 
+ }
+ 
+ footer {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #612121;
+    font-size: larger;
+ }
+ 
+ p {
+ 
+ }
